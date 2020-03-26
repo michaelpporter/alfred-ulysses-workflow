@@ -41,6 +41,9 @@ To install, download the [latest Ulysses.alfredworkflow](https://github.com/robw
 
 ## Versions
 
+**1.0.5**
+- Add support for Ulysses 16 XML-based sheets
+
 **1.0.4**
 - Fixed ExpatError exception that **completely broke the workflow with Ulysses 13 update**.
 
@@ -52,7 +55,7 @@ To install, download the [latest Ulysses.alfredworkflow](https://github.com/robw
 
 **1.0.1**
 - Fixed displayName KeyError exception that **completely broke the workflow with Ulysses 12 update**
-- Fixed an older issue with 'un' command 
+- Fixed an older issue with 'un' command
 
 **1.0**
 - Fixed 100% cpu hang on Sierra with update of alfred-workflow to 1.25.1
@@ -79,4 +82,3 @@ To install, download the [latest Ulysses.alfredworkflow](https://github.com/robw
 
 ## To contribute
 To contribute to the workflow please fork on github: https://github.com/robwalton/alfred-ulysses-workflow .
-
